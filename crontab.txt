@@ -1,0 +1,2 @@
+*   * * * * echo $(date) >> /home/suelem/cronjobs/minuto.txt
+*/2 * * * * echo $(date) >> /home/suelem/cronjobs/dois-minuto.txt
